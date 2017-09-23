@@ -16,7 +16,7 @@ jwt.io
 local storage -> almacena 10MB
 
 
-para firebase hay q tener cuenta en google
+para firebase hay q tener cuenta en google (firebase siempre devuelve promesas)
 firebase.google.com
 parte izquierda
 Authentication -> Metodo de inicio de sesion: activar por correo/contraseña
