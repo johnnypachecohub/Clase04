@@ -1,0 +1,24 @@
+levantando el servidor de node para el token
+
+instalar paquetes de node (package.json)
+npm install
+
+para ejecutar el archivo de node:
+node servidor
+
+en este caso, debemos crear una pagina "login.html" para ejecutarlo en el navegador
+
+
+para analizar la cadena del token (se divide en 3 partes separados por puntos)
+jwt.io
+
+
+local storage -> almacena 10MB
+
+
+para firebase hay q tener cuenta en google
+firebase.google.com
+parte izquierda
+Authentication -> Metodo de inicio de sesion: activar por correo/contraseña
+
+luego ir a Configuracion Web -> nos mostrara el script que necesitamos
